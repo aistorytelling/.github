@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋
+We are a team, helping users enjoy the pleasure of reading in an efficient and in-depth manner.
 
 <!--
 
